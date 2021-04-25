@@ -41,7 +41,7 @@ const styles = StyleSheet.create({
     width: 76,
     justifyContent: 'center',
     alignItems: 'center',
-    borderRaius: 12,
+    borderRadius: 12,
     marginHorizontal: 5
   },
   containerActive:{
